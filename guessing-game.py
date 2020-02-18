@@ -8,6 +8,9 @@ while animal := "Dog":
     if userchoice == animal:
         print("Congratulations, you guessed correctly. Well done!")
         break
+    elif userchoice == "quit":
+        print("Try again soon!")
+        break
     else:
         print("I'm sorry, that is incorrect. Try again!")
 
