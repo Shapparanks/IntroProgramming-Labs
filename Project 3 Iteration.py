@@ -72,7 +72,7 @@ def game_custom():
     intro = '''
 Intro: The goal of this game is to reach the end of the adventure with 150 points. Throughout the storyline,
 you will be able to chose where to go using the directions, north, south, east, and west.
-You start with 0 points, but with the rooms you go through, you will earn 25 points. You will have 180 seconds
+You start with 0 points, but with the rooms you go through, you will earn 25 points. You have 15 moves
 to complete this game! Good Luck!
 '''
     print(intro)
